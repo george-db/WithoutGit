@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581040820751.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "341536D9",
+    "lastKnownWriteTime" : 1581040849,
+    "last_content_update" : -2147483648,
+    "path" : "~/WithoutGit/FirstScript_New.R",
+    "project_path" : "FirstScript_New.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
